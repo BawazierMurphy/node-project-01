@@ -1,0 +1,81 @@
+{
+  "menu": [
+    {
+      "kategori": "Burger",
+      "nama": "Burger Double Cheese",
+      "harga": 29800,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Burger",
+      "nama": "Burger Regular",
+      "harga": 27800,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Burger",
+      "nama": "Burger Double Meat",
+      "harga": 28900,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Burger",
+      "nama": "Burger Vegetable Series",
+      "harga": 19000,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Snack",
+      "nama": "Roti Bakar Coklat",
+      "harga": 9700,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Snack",
+      "nama": "Roti Bakar Keju",
+      "harga": 9800,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Snack",
+      "nama": "Salad Buah",
+      "harga": 12000,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Air Putih Dingin",
+      "harga": 3000,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Mix Juice",
+      "harga": 22000,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Orange Wine",
+      "harga": 90000,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Iced Milkpresso",
+      "harga": 8000,
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia laborum neque corrupti distinctio incidunt. Quisquam quidem hic alias delectus, itaque dicta repellat facere dolore quasi eaque praesentium labore illo distinctio.",
+      "foto": "foto.png"
+    }
+  ]
+}
